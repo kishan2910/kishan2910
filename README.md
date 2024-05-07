@@ -1,17 +1,23 @@
-<div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=kishan2910&style=for-the-badge&color=orange" alt=""/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-4116&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-4116" /> </p>
 
 
 
 ### A bit About Me: 
-I'm a passionate machine learning engineer with a knack for predictive analytics as well as deep learning, specializing in computer vision alongside LLM models. Additionally, I have a strong foundation in classical machine learning and possess the requisite programming knowledge.
-
+👋 Welcome to my GitHub profile! I'm a passionate machine learning engineer with a dynamic skill set and a thirst for innovation. 
+🚀 My journey has been a thrilling ride through diverse domains including machine learning engineering, data analytics, DevOps, and product management. Over the past 2 years, I've not only honed my technical prowess but also navigated the entire machine learning lifecycle - from shaping basic ML models to taking the reins of full-fledged models.
 Currently, I'm delving into the realms of machine learning operations and  cloud technologies, particularly AWS. I'm actively involved in designing and implementing projects that encompass complete machine learning pipelines to address real-world challenges.
 
 🤝 If you're seeking a versatile and driven professional to enrich your team's capabilities, let's connect! I'm enthusiastic about collaborating on innovative projects and leveraging my technical prowess to deliver exceptional results.
 
 📬 Reach out to me at kishanajudiya13@gmail.com, and let's explore the exciting possibilities of working together.
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/KishanAjudiya13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihirbhalala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishan2910/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-bhalala" height="30" width="40" /></a>
+<a href="https://instagram.com/kishan__ajudiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_4116" height="30" width="40" /></a>
+</p>
+
 
 
 ## Languages and Tools 
@@ -76,13 +82,11 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 
 ---
 
+<h3 align="left">Github trophies</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kishan2910&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="left">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2910&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
+<h3 align="left">Github stats</h3>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-4116&" alt="mihir-4116" /></p>
 
 <p align="left">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
