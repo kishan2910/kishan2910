@@ -20,7 +20,7 @@ Areas of Expertise:
 
 ⚙️ DevOps Engineering: Docker, GitHub Actions, GitHub CI/CD
 
-📊 Product Management: Notion, Jira, Agile Development
+📊 Product Management: Notion, Jira, Agile Development, Confluence
 
 
 🤝 If you're seeking a versatile and driven professional to enrich your team's capabilities, let's connect! I'm enthusiastic about collaborating on innovative projects and leveraging my technical prowess to deliver exceptional results.
@@ -38,13 +38,13 @@ Areas of Expertise:
 
 
 ### Cloud Engineering:
-| AWS S3 | ECR | EC2 | Lambda | Sagemaker | CloudWatch |
+| AWS S3 | ECR | EC2 | Lambda | Sagemaker | CloudWatch|
 |----------|----------|----------|-----|-----|-----|
-|<img src="./assets/S3.png" width="55" height="55"/>|<img src="./assets/ECR.png" width="55" height="55"/>|<img src="./assets/EC2.png" width="55" height="55"/>|<img src="./assets/lambda.png" width="55" height="55"/>|<img src="./assets/sagemaker.jpeg"  width="55" height="55"/>|<img src="./assets/CW.png"  width="55" height="55"/> |
+|<img src="./assets/S3.png" width="55" height="55"/>|<img src="./assets/ECR.png" width="55" height="55"/>|<img src="./assets/EC2.png" width="55" height="55"/>|<img src="./assets/lambda.png" width="55" height="55"/>|<img src="./assets/sagemaker.jpeg"  width="55" height="55"/>|<img src="./assets/CW.png"  width="55" height="55"/>|
 
 ### DevOps Engineering:
 
-| Git | Docker | GitHub Actions | 
+| Git | Docker |GitHubActions| 
 |-----|--------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"  width="55" height="55"/>|
 
@@ -71,6 +71,12 @@ Areas of Expertise:
 | Linux | Windows |
 |-------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |
+
+### Product Management: ❤️
+
+| Confluence | Jira | Notion |
+|------------|------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="55" height="55"/> |
 
 </div>
 
