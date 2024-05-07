@@ -69,20 +69,21 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 ---
 
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kishan2910&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<p align="left">
+  <img width="600" height="200" src="https://streak-stats.demolab.com?user=kishan2910&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
 ---
 
+<p align="left">
 [![trophy](https://github-profile-trophy.vercel.app/?username=kishan2910&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2910&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
-<p align="center">
+<p align="left">
+  <img width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2910&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<p align="left">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
