@@ -76,9 +76,9 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 
 ---
 
-<p align="left">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kishan2910&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 <p align="left">
   <img width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2910&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
