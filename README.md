@@ -40,14 +40,20 @@ Areas of Expertise:
 ### Cloud Engineering:
 | AWS S3 | ECR | EC2 | Lambda | Sagemaker | CloudWatch |
 |----------|----------|----------|-----|-----|-----|
-|<img src="./assets/S3.png" width="55" height="55"/>|<img src="./assets/ECR.png" width="55" height="55"/>| <img src="./assets/EC2.png" width="55" height="55"/>|<img src="./assets/lambda.png" width="55" height="55"/>|  <img src="./assets/sagemaker.jpeg"  width="55" height="55"/>|  <img src="./assets/CW.png"  width="55" height="55"/>
+|<img src="./assets/S3.png" width="55" height="55"/>
+|<img src="./assets/ECR.png" width="55" height="55"/>
+|<img src="./assets/EC2.png" width="55" height="55"/>
+|<img src="./assets/lambda.png" width="55" height="55"/>
+|<img src="./assets/sagemaker.jpeg"  width="55" height="55"/>
+|<img src="./assets/CW.png"  width="55" height="55"/> |
 
 ### DevOps Engineering:
 
 | Git | Docker | GitHub Actions | 
-|----------|----------|----------|
-
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"  width="55" height="55"/>|
+|-----|--------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"  width="55" height="55"/>|
 
   
 
@@ -55,23 +61,34 @@ Areas of Expertise:
 
 | Pytorch | TensorFlow | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 
 
 ### Environments, Testing, Other:
 
 | Conda | Jupyter | VS Code | PyCharm | Postman |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="55" height="55"/>|
+|-------|---------|---------|---------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="55" height="55"/>|
 
 
 
 ### Operating Systems: ❤️
 
 | Linux | Windows |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |
+|-------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |
 
 </div>
 
