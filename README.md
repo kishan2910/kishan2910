@@ -1,50 +1,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me: 
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+I'm a passionate machine learning engineer with a knack for predictive analytics as well as deep learning, specializing in computer vision alongside LLM models. Additionally, I have a strong foundation in classical machine learning and possess the requisite programming knowledge.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
- 
-
-### Social media: 📡  
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-## Competitions: 🥇
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|BSidesSF CTF|soon...|movie43|05/24|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|vksCTF|top 15%| Solo played |09/2023|
-
-
-
-### Working on: 🚀
-
-- Tweaking this README for optimal engagement 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+Currently, I'm delving into the realms of machine learning operations and  cloud technologies, particularly AWS. I'm actively involved in designing and implementing projects that encompass complete machine learning pipelines to address real-world challenges.
 
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| Python3 | C | JS | Solidity |
+| Python3 | MySQL | JAVA | HTML |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|
 
   
 
