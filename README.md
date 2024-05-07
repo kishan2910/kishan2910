@@ -24,9 +24,10 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 
 
 ### ☁️ Cloud Engineering
-| AWS S3 | ECR | EC2 | Lambda | Sagemaker | CloudWatch|
+| AWS S3 | ECR |Sagemaker | EC2 | CloudWatch| Lambda |
 |----------|----------|----------|-----|-----|-----|
-|<img src="./assets/S3.png" width="55" height="55"/>|<img src="./assets/ECR.png" width="55" height="55"/>|<img src="./assets/EC2.png" width="55" height="55"/>|<img src="./assets/lambda.png" width="55" height="55"/>|<img src="./assets/sagemaker.jpeg"  width="55" height="55"/>|<img src="./assets/CW.png"  width="55" height="55"/>|
+|<img src="./assets/S3.png" width="55" height="55"/>|<img src="./assets/ECR.png" width="55" height="55"/>|<img src="./assets/sagemaker.jpeg"  width="55" height="55"/>| <img src="./assets/EC2.png" width="55" height="55"/>|<img src="./assets/CW.png"  width="55" height="55"/>| <img src="./assets/lambda.png" width="55" height="55"/>|
+
 
 ### ⚙️ DevOps Engineering
 
@@ -34,7 +35,6 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 |-----|--------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"  width="55" height="55"/>|
 
-  
 
 ### 🔍 Machine Learning Frameworks and libraries
 
@@ -81,7 +81,7 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 
 
 <p align="left">
-  <img width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2910&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2910&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <p align="left">
