@@ -74,15 +74,14 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
 
 ---
 
+  
 <h3 align="left">Github stats</h3>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan2910&" alt="kishan2910" /></p>
-
+<p align="left"><img align="center" src="https://streak-stats.demolab.com?user=kishan2910&theme=highcontrast&hide_border=true&border_radius=5&card_width=800 /></p> 
 
 ---
 
 <h3 align="left">Github trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishan2910" alt="kishan2910" /></a> </p>
-
 
 
 <p align="left">
