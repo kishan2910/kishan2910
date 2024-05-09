@@ -75,7 +75,7 @@ Currently, I'm delving into the realms of machine learning operations and  cloud
   
 ---
 
-  
+<h3 align="left">Github stats</h3>  
 <p align="left">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=kishan2910&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
