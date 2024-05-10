@@ -8,7 +8,6 @@
 Currently, I'm delving into the realms of machine learning operations and  cloud technologies, particularly AWS. I'm actively involved in designing and implementing projects that encompass complete machine learning operations to address real-world challenges.
 
 🤝 If you're seeking a versatile and driven professional to enrich your team's capabilities, let's connect! I'm enthusiastic about collaborating on innovative projects and leveraging my technical knowledge to deliver exceptional results.
-
 📬 Reach out to me at kishanajudiya13@gmail.com, and let's explore the exciting possibilities of working together.
 
 <h3 align="left">Connect with me</h3>
