@@ -3,9 +3,7 @@
 
 
 ### A bit About Me: 
-👋 Welcome to my GitHub profile!!! I'm a passionate Machine Learning engineer with a dynamic skill set and a thirst for innovation. 🚀 I'm actively involved in designing and implementing projects that encompass complete machine learning operations and cloud technologies, particularly AWS to address real-world challenges.
-
-🤝 If you're seeking a versatile and driven professional to enrich your team's capabilities, let's connect! I'm enthusiastic about collaborating on innovative projects and leveraging my technical knowledge to deliver exceptional results. 
+👋 Welcome to my GitHub profile!!! Applied GenAI and MLOps Engineer with experience designing RAG systems, deploying LLM/VLM infrastructure on Kubernetes and delivering AI solutions for customer-facing consulting projects. Skilled in retrieval evaluation, observability, AI automation and scalable inference systems using vLLM, MLflow and modern LLMOps tooling.
 📬 Reach out to me at kishanajudiya13@gmail.com, and let's explore the exciting possibilities of working together.
 
 <h3 align="left">Connect with me</h3>
